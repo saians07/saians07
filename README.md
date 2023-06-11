@@ -1,1 +1,1 @@
-![Metrics](https://github.com/blakcjack/blakcjack/raw/main/github-metrics.svg)
+![Metrics](https://github.com/blakcjack/blakcjack/raw/master/github-metrics.svg)
