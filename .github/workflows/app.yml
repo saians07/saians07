@@ -20,7 +20,7 @@ jobs:
 
           # Options
           user: blakcjack
-          template: classic
+          template: repository
           base: header, activity, community, repositories, metadata
           config_animations: yes
           config_timezone: Asia/Jakarta
