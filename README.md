@@ -1,1 +1,3 @@
-![Metrics](https://github.com/blakcjack/blakcjack/raw/master/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
