@@ -1,5 +1,5 @@
 # Welcome 🤝!
-[![GitHub followers](https://img.shields.io/github/followers/samdyra?label=Follow&style=social)](https://github.com/blakcjack)
+[![GitHub followers](https://img.shields.io/github/followers/blakcjack?label=Follow&style=social)](https://github.com/blakcjack)
 
 ## 🙂 About Me!
 
