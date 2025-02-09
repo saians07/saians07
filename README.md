@@ -21,9 +21,19 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakcjack&theme=radical" alt="blakcjack" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakcjack&theme=radical" alt="berlin" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blakcjack&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="blakcjack" />
+  <img src="https://github-profile-trophy.vercel.app/?username=blakcjack&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="berlin" />
+</div>
+
+## 📫 How to reach me
+- LinkedIn: [Suberlin Sinaga](https://id.linkedin.com/in/suberlin-sinaga-007)
+- Email: suberlinsinaga@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=blakcjack&label=Profile%20views&color=0e75b6&style=flat" alt="berlin" />
 </div>
