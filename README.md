@@ -7,20 +7,23 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 
 ## 📊 Data Stack
 
-- **Programming Language**: 
+- **Programming Language**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL%20%7C%20RDBMS-4479A1?)
+- **Dashboarding Tools**: ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=black) ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=black) ![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-669DF6?style=flat-square&logo=googledatastudio&logoColor=black) ![Shiny](https://img.shields.io/badge/-Shiny%20Dashboard-276DC3?style=flat-square&logo=Shiny&logoColor=black)
 
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Ptyhon Logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo"  />
-  <img width="12" />
-</div> -->
+- **Database**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-- **Dashboarding Tools**:
-![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=black) ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=black) ![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-669DF6?style=flat-square&logo=googledatastudio&logoColor=black) ![Shiny](https://img.shields.io/badge/-Google%20Data%20Studio-276DC3?style=flat-square&logo=Shiny&logoColor=black)
+## 📈 Github Stats
 
-<!-- <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture> -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blakcjack&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakcjack&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blakcjack&theme=radical" alt="blakcjack" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=blakcjack&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="blakcjack" />
+</div>
