@@ -37,3 +37,7 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=blakcjack&label=Profile%20views&color=0e75b6&style=flat" alt="berlin" />
 </div>
+
+<div align="center">
+  <img scr="github-metrics.svg" />
+</div>
