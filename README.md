@@ -39,5 +39,7 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 </div>
 
 <div align="center">
-  <img scr="github-metrics.svg" />
+  <picture>
+    <img src="/github-metrics.svg" alt="Metrics">
+  </picture>
 </div>
