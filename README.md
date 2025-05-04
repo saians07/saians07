@@ -3,7 +3,7 @@
 
 ## 🙂 About Me!
 
-I am a plain version of human with vanilla taste. My mission is simple: roll regular version update, where each update just upgrade the feature but not not the taste.
+I am a plain version of human with vanilla taste. My mission is simple: roll regular version update, where each update just upgrade the feature but not the taste.
 
 ## 📊 Data Stack
 
@@ -29,7 +29,8 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 </div>
 
 ## 📫 How to reach me
-- LinkedIn: [Suberlin Sinaga](https://id.linkedin.com/in/suberlin-sinaga-007)
+- LinkedIn: [Suberlin Sinaga](https://id.linkedin.com/in/suberlin-sinaga-007
+)
 - Email: suberlinsinaga@gmail.com
 
 ---
