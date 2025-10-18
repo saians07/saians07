@@ -11,7 +11,7 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 
 - **Dashboarding Tools**: ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=black) ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=black) ![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-669DF6?style=flat-square&logo=googledatastudio&logoColor=black) ![Shiny](https://img.shields.io/badge/-Shiny%20Dashboard-276DC3?style=flat-square&logo=Shiny&logoColor=black)
 
-- **Database**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- **Database**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 ## 📈 Github Stats
 
