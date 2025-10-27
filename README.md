@@ -24,9 +24,9 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saians07&theme=radical" alt="berlin" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saians07&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="berlin" />
-</div>
+</div> -->
 
 ## 📫 How to reach me
 - LinkedIn: [Suberlin Sinaga](https://id.linkedin.com/in/suberlin-sinaga-007
