@@ -7,7 +7,7 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 
 ## 📊 Data Stack
 
-- **Programming Language**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?)
+- **Programming Language**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?)![Rust](https://img.shields.io/badge/-Rust?style=flat-square&logo=rust&logoColor=orange)
 
 - **Dashboarding Tools**: ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=black) ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=black) ![Google Data Studio](https://img.shields.io/badge/-Google%20Data%20Studio-669DF6?style=flat-square&logo=googledatastudio&logoColor=black) ![Shiny](https://img.shields.io/badge/-Shiny%20Dashboard-276DC3?style=flat-square&logo=Shiny&logoColor=black)
 
