@@ -29,13 +29,3 @@ I am a plain version of human with vanilla taste. My mission is simple: roll reg
 - Email: suberlinsinaga@gmail.com
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saians07&label=Profile%20views&color=0e75b6&style=flat" alt="berlin" />
-</div>
-
-<div align="center">
-  <picture>
-    <img src="/github-metrics.svg" alt="Metrics">
-  </picture>
-</div>
